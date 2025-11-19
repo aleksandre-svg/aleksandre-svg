@@ -8,7 +8,7 @@
 
 <div align="center">
     
-🤑 Future front-end developer 😎😉
+🤑 Junior front-end developer 😎😉
 
 💬 Ask me about Help if you need
 
